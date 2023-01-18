@@ -1,0 +1,3 @@
+{
+  "publisherStartCommand": "cd './01-a-taste-of-tailwind/begin' && cat package.json"
+}
